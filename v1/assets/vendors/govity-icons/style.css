@@ -163,3 +163,11 @@
 .icon-phone-call-1:before {
   content: "\e92c";
 }
+
+.icon-barangay::before{
+  content: "\e190"
+}
+
+.icon-users::before{
+  content: "\e071"
+}
